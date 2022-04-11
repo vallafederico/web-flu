@@ -1,4 +1,4 @@
-# Web-flu aka the Webflow toolkit
+# A Webflow toolkit
 Things for Webflow but in a form that works for everything! Missing pieces, snippets, fully fledged extensions, plugins kinda things. In no particular order, mostly sparked from project needs. Couldn't really think of a better name and now we're stuck here :).
 
 > I like no code but with some code in it. *- Someone*
