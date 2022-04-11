@@ -1,15 +1,28 @@
 # Web-flu
-Things for Webflow but in a form that works for everything! Missing pieces, snippets, fully fledged extensions, plugins kinda things. In no particular order, mostly sparked from project needs. 
-Couldn't really think of a better name and now we're stuck here :).
+Things for Webflow but in a form that works for everything! Missing pieces, snippets, fully fledged extensions, plugins kinda things. In no particular order, mostly sparked from project needs. Couldn't really think of a better name and now we're stuck here :).
 
 > I like no code but with some code in it. *- Someone*
 
-[Webflow Public Profile](https://webflow.com/vallafederico)
+[Cloneables in action here!](https://webflow.com/vallafederico)
+
+## Community & Bugs
+[Issues](https://github.com/vallafederico/web-flu/issues) are there to report bugs, and hopefully stuffs can get fixed.    
+[Discussion](https://github.com/vallafederico/web-flu/discussions) is there to share, suggest and all the rest.
+
+## Contribute
+Have developed a codebase for useful webflow things? Care to share? We'd love to have you here. 
+Do it [here!](https://github.com/vallafederico/web-flu/discussions/2).
+
+
+
+Have code skills? Help a no-code bro realise his dreams and fix some [issues](https://github.com/vallafederico/web-flu/issues) while he keeps saying he doesn't need any code to make his websites!
+
+
 
 ## Content of this repo
 **Main** has the uncompiled, class based original code. From here you can pull stuffs to integrate on your own codebase if that's the way you use Webflow!
 
-**Dist** has the compiled, minified (if I dont' forget), single instance code. It's the right one to to re-save as a .txt to store in webflow's project assets, or to use if only a single one is needed.
+**Dist** has the compiled, minified (when I do not forget), single instance code. It's the right one to to re-save as a .txt to store in webflow's project assets, or to use if only a single one is needed.
 
 **Modules** Contains the code in library form, available for Browser imports.
 
